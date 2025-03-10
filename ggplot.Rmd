@@ -1,0 +1,14 @@
+---
+title: "ggplot"
+author: "Moaiz"
+date: "2025-03-04"
+output: pdf_document
+---
+
+## Setting up my environment
+Notes: Loading the 'tidyverse' and 'palmerpenguins' packages
+
+```{r loading packages}
+library(tidyverse)
+library(palmerpenguins)
+```
